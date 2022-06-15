@@ -3,6 +3,10 @@
 
 I am a undergrad, currently pursuing my B.Tech(Computer Science- Cyber Security) at Dayananda Sagar University
 
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=pavanpneginhal)
+
 <!--
 **pavanpneginhal/pavanpneginhal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
