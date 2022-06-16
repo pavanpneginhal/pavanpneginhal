@@ -1,7 +1,7 @@
 ## Hello there,I am Pavan
 
 
-I am a undergrad, currently pursuing my B.Tech(Computer Science- Cyber Security) at Dayananda Sagar University
+I am an undergrad, currently pursuing my B.Tech(Computer Science- Cyber Security) at Dayananda Sagar University
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=pavanpneginhal&theme=highcontrast&show_icons=true&count_private=true)
