@@ -9,8 +9,7 @@ I am an undergrad, currently pursuing my B.Tech(Computer Science- Cyber Security
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanpneginhal&layout=compact&theme=highcontrast)
 
 
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
+![Quote](https://github-readme-quotes.herokuapp.com/quote?quoteCategory=motivational)
 
 
 
