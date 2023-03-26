@@ -10,6 +10,7 @@ I am an undergrad, currently pursuing my B.Tech(Computer Science- Cyber Security
 
 
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote)
 
 
 
